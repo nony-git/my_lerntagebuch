@@ -14,7 +14,6 @@ Meine mangelnde Erfahrung im Bereich Archiv und Bibliothek versuche ich mit Prog
 ## Erwartungen
 Mit der folgenden Grafik kann ich mit dem aktuellen Wissenstand leider wenig anfangen, hoffe aber, dass sich das im Laufe des Semesters ändert.
 ![Roadmap](https://pad.gwdg.de/uploads/upload_6f65912f937ad0643db6dd982043e148.png)
-![The San Juan Mountains are beautiful!](https://pad.gwdg.de/uploads/upload_6f65912f937ad0643db6dd982043e148.png "San Juan Mountains")
 Äusserst interessant fände ich, wenn dieser Kurs dort ansetzt, wo das Fach Information Retrieval Grundlagen (IRGR) aufgehört hat. Darin wurden die grundsätzlichen Suchfunktionen und logischen Konzepte vermittelt, leider aber ohne starken Praxisbezug. Auch im Fach Architektur für Informationssysteme (ARIS) wurden Inhalte die vermittelt wie Webserveraufbau und Verschlüsselung / Security, die ich gerne vertiefen möchte. Ebenfalls in ARIS gab es bereits schon Inputs für das Linux-Betriebssystem, die leider aufgrund fehlender Praxis auch schon wieder sehr eingerostet sind.
 
 
