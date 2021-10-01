@@ -13,7 +13,8 @@ Aktuell beschäftige ich mich mit dem Aufbau eines Onlinehandbuchs, welches via 
 Meine mangelnde Erfahrung im Bereich Archiv und Bibliothek versuche ich mit Programmierkenntnissen zu kompensieren. Durch die Arbeit an verschiedenen Webseiten, sowohl beruflich als auch privat, bin ich mit HTML, CSS und Javascript mehr oder weniger sattelfest. Die Arbeit mit Wordpress, insbesondere die Umsetzung eigener Themes hat mich auch in den Grundkenntnissen von PHP gelehrt. In anderen privaten Projekten konnte ich mit mySQL etwas Datenbank-Luft schnuppern. In einem eher anspruchsvollen Projekt im letzten Semester lernte ich zudem das Framework VueJS kennen und konnte mein Wissen rund um objektorientierte Programmierung ausbauen.
 ## Erwartungen
 Mit der folgenden Grafik kann ich mit dem aktuellen Wissenstand leider wenig anfangen, hoffe aber, dass sich das im Laufe des Semesters ändert.
-[Roadmap](https://pad.gwdg.de/uploads/upload_6f65912f937ad0643db6dd982043e148.png)
+![Roadmap](https://pad.gwdg.de/uploads/upload_6f65912f937ad0643db6dd982043e148.png)
+![The San Juan Mountains are beautiful!](https://pad.gwdg.de/uploads/upload_6f65912f937ad0643db6dd982043e148.png "San Juan Mountains")
 Äusserst interessant fände ich, wenn dieser Kurs dort ansetzt, wo das Fach Information Retrieval Grundlagen (IRGR) aufgehört hat. Darin wurden die grundsätzlichen Suchfunktionen und logischen Konzepte vermittelt, leider aber ohne starken Praxisbezug. Auch im Fach Architektur für Informationssysteme (ARIS) wurden Inhalte die vermittelt wie Webserveraufbau und Verschlüsselung / Security, die ich gerne vertiefen möchte. Ebenfalls in ARIS gab es bereits schon Inputs für das Linux-Betriebssystem, die leider aufgrund fehlender Praxis auch schon wieder sehr eingerostet sind.
 
 
