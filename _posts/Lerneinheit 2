@@ -1,1 +1,19 @@
-todo
+---
+title: "Einführungsartikel"
+date: 2021-09-30
+---
+
+# Lerneinheit 2
+In der zweiten Lehrveranstaltung wurde eingehend ein Rückblick auf die Erwartungen der Studierenden gemacht und erklärt, wie und ob diese erfüllt werden können. Im Anschluss wurde das Thema Git weiter vertieft. In der darauffolgenden Auffrischung von MARC 21 und der Abgrenzung zu Dublin Core wurden erste Schritte in die Archiv- und Bibliotheks-Thematik gemacht. Abschliessend gab es Inputs zu «koha» sowie dessen Installation über die Shell.
+## Erwartungen
+Im kurzen Rückblick zu Beginn der Vorlesung wurde auf die geschilderten Erwartungen eingegangen. Leider konnten meine Wünsche / Hoffnungen nicht allzu stark berücksichtigt werden. Angesichts der begrenzt zu Verfügung stehenden Zeit kann natürlich nicht auf jeden Wunsch eingegangen werden.
+## MARC 21 vs. Dublin Core
+Zur Gegenüberstellung von MARC21 und Dublin Core konnte ich eher wenig beitragen. Natürlich fielen mir Unterschiede im Aufbau und der Verschachtelung auf, dennoch fehlte es mir für eine Einordnung oder Bewertung an praktischer Erfahrung. Ich vermute je nach Themengebiet ist der Einsatz des einen oder anderen Standards sinnvoller.
+## Git
+Wie bereits im Artikel 1 erwähnt, arbeite ich beruflich mit Git und kenne Vieles bereits. Interessant und neu jedoch waren die Pull-Request in Github. Da ich Github nur für private Projekte, und daher meist alleine nutze, kannte ich diese Funktion nicht, bzw. nutzte sie noch nie.
+Probleme hatte ich beim Push meiner Ergebnisse. Zwar hatte ich Github einen Authentication-Token generiert, realisierte aber nicht, dass ich diesen als Passwort verwenden kann. Nach kurzer Recherche klärte sich dies, jedoch stolperte ich wiederholt über die Copy-Paste-Thematik. Seltsamerweise scheint das Terminal dafür eine andere Tastenkombination (CTRL-C, CTRL-Fn-V) erwartet als der Rest des Betriebssystems. In Kombination mit dem Nicht-Anzeigen des Inputs bei der Passwortabfrage, war ich kurz etwas verloren.
+## Koha
+Die Installation von koha auf über die Konsole war hauptsächlich ein üben meiner neu angeeigneten Copy&Paste-Tastenkombination. Grundsätzlich war der Weg bis zum funktionierenden Link bibliothek-intra.meine-schule.org ein Leichtes. Leider machte ich aber den Fehler und unterbrach dann die Konfiguration und richtete meine Bibliothek nicht fertig ein. Nach meinem Verständnis hätte die virtuelle Maschine trotz der Inaktivität meiner lokalen Maschine weiterlaufen müssen, dami ich die Konfiguration später hätte fortsetzen können. Als ich jedoch zwei Tage später weitermachen wollte, bekam ich nur noch den «Internal Server Error».
+Dies versuchte ich durch das Reproduzieren einzelner Schritte der Anleitung zu beheben. Ich vermutete, dass der Apache-Server nicht mehr aktiv war. Dies schien, zumal https://127.0.0.1/ aktiv war und den Apache-Screen zeigte, nicht der Fall zu sein.
+Leider konnte das Problem bis jetzt noch nicht gelöst werden.
+
