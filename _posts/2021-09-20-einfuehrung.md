@@ -1,6 +1,6 @@
 ---
 title: "Einführungsartikel"
-date: 2021-09-30
+date: 2021-09-29
 ---
 
 # Wo bin ich gestartet?
